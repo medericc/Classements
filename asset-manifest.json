@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Classements/static/css/main.6146597e.css",
+    "main.js": "/Classements/static/js/main.aecff163.js",
+    "index.html": "/Classements/index.html",
+    "main.6146597e.css.map": "/Classements/static/css/main.6146597e.css.map",
+    "main.aecff163.js.map": "/Classements/static/js/main.aecff163.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6146597e.css",
+    "static/js/main.aecff163.js"
+  ]
+}
